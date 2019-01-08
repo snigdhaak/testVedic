@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="hw3.css">
+		
+		<title>Assignment3</title>
+
+	</head>
+	<body>
+		<div class = "row "  style="background-color:#888844">
+			<div class = "col-md-2"  >
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg/260px-Sachin_Tendulkar_at_MRF_Promotion_Event.jpg" class="img-circle" width="110" height="110" >
+		</div>
+		<div class = "col-md-4"  >
+				<h1 style="color:#3c3c3c">Sachin Biography</h1>
+		</div>
+		<div class = "arrange">
+		<div class = "col-md-1"> <button type="button" class="btn btn-primary">About</button></div>
+		<div class = "col-md-1"> <button type="button" class="btn btn-warning">Stats</button></div>
+		<div class = "col-md-2"> <button type="button" class="btn btn-primary">Personal Life</button></div>
+		<div class = "col-md-2"> <button type="button" class="btn btn-success">Captinacy</button></div>
+	</div>
+
+	</div>
+			
+	</body></html>
